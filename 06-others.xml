@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<project path="prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.6" name="platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.6" remote="aosp" revision="master" />
+	<project path="prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.6" name="platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.6" remote="aosp" revision="eb5c9f0ae36bf964f6855bde54e1b387e2c26bb6"/>
 	<remove-project name="platform/external/protobuf" />
 	<project path="external/protobuf" name="platform/external/protobuf" remote="aosp" revision="android11-release" clone-depth="1" />
 	<project path="external/syslinux" name="platform/external/syslinux" remote="aosp" revision="master" />
